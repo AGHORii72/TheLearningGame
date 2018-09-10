@@ -1,7 +1,9 @@
 # TheLearningGame
 
 --This is a simple game containing a grid and a Player.
+
 --The grid contains walls and there is a prize hiding at a particular co-ordinate.
+
 --Player can just move upwards and right.
 
 This is just a basic learning project.
